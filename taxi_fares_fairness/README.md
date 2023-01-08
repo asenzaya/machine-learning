@@ -1,5 +1,14 @@
 # Predicting taxi fares fairness in New York City
 
+## Algorithms used in this project:
+
+### -Decision Tree
+### -Random Forest
+### -Bagging
+### -Boosting
+### -Gradient Boosting
+### -LightGBM
+
 The purpose of this project was to practice using different algorithms and evaluating their performance on a classification problem.
 
 Fares below $10 were considered fair, while fares of $10 or higher were considered unfair.
