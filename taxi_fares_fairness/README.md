@@ -1,4 +1,4 @@
-Predicting taxi fares fairness in New York City
+#Predicting taxi fares fairness in New York City
 
 The purpose of this project was to practice using different algorithms and evaluating their performance on a classification problem.
 
